@@ -397,7 +397,7 @@ class UsersInfo extends User
      *
      * @var string
      */
-    protected $table = "users_info";
+    protected $table = "users";
 
     /**
      * primary key
